@@ -1,0 +1,5 @@
+.DS_Store
+vendor/*
+
+*.wav
+*.mp3

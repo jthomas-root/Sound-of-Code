@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (13.0.3)
+    wavefile (1.1.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rake
+  wavefile
+
+BUNDLED WITH
+   1.17.2
